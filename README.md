@@ -3,6 +3,9 @@
 This site gives examples of AIUQ R package in R available on CRAN:
 https://cran.r-project.org/web/packages/AIUQ/index.html
 
+For installing AIUQ, in R Studio run 
+install.packages('AIUQ')
+
 AIQU is a set of uncertainty quantification and inverse estimation tools with the use of a probabilistic generative model from the beginning of the data analysis. An example is a Fourier basis method for inverse estimation in scattering analysis of microscopy videos. It does not require specifying a certain range of Fourier bases and it substantially reduces computational cost via the generalized Schur algorithm. 
 
 References:
