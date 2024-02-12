@@ -1,4 +1,4 @@
-# Examples of AIUQ: Ab initio Uncertainty Quantification in R
+# AIUQ: Ab initio Uncertainty Quantification in R
 
 This site gives examples of AIUQ R package in R available on CRAN:
 https://cran.r-project.org/web/packages/AIUQ/index.html
